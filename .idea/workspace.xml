@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/ICRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" afterDir="false" />
+    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 중간 점검 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package.json" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,11 +64,36 @@
       <option name="presentableId" value="Default" />
       <updated>1694232772465</updated>
       <workItem from="1694232773547" duration="2495000" />
-      <workItem from="1694238891526" duration="1041000" />
+      <workItem from="1694238891526" duration="1235000" />
+      <workItem from="1694240881904" duration="5425000" />
     </task>
+    <task id="LOCAL-00001" summary="2023 PP1 Project1 중간 점검 1">
+      <option name="closed" value="true" />
+      <created>1694240783513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694240783513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023 PP1 Project1 중간 점검 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 PP1 Project1 중간 점검 1" />
   </component>
 </project>

@@ -5,14 +5,12 @@ public class Word {
     private int level;
     private String word;
     private String def;         //definition
-    public Word link;
 
-    public Word(int id, int level, String word, String def, Word link) {
+    public Word(int id, int level, String word, String def) {
         this.id = id;
         this.level = level;
         this.word = word;
         this.def = def;
-        this.link = link;
     }
 
     public int getId() {
@@ -45,5 +43,14 @@ public class Word {
 
     public void setDef(String def) {
         this.def = def;
+    }
+
+    @Override
+    public String toString() {
+        String slevel = "";
+        for(int i=0; i<level; i++) slevel += "*";
+        String str = String.format("%-3s", slevel)
+                + String.format("%15s", word) + "  " + def;
+        return str;
     }
 }
