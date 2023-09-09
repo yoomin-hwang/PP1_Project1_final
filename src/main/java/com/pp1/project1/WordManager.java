@@ -37,6 +37,9 @@ public class WordManager {
                     wordCRUD.listAll();
                     break;
                 case 2:
+                    int lv = 0;
+                    // scan level
+                    wordCRUD.listLevel(lv);
                     break;
                 case 3:
                     break;
