@@ -26,7 +26,6 @@ public class WordCRUD implements ICRUD {
     public void addWord() {
         Word one = (Word)add();
         list.add(one);
-        list.add(one);
         System.out.println("새 단어가 단어장에 추가되었습니다. ");
     }
 
@@ -54,7 +53,13 @@ public class WordCRUD implements ICRUD {
         System.out.println("---------------------------------");
     }
 
-    public void listLevel() {
+    public void listLevel(int lv) {              // lv stands for level
+        System.out.println("---------------------------------");
+        for(int i=0; i<list.size(); i++){
+//            if(list의 node별 getLevel == lv인 경우){
+//                출력하기
+//            }
+        }
         System.out.println("---------------------------------");
     }
 }

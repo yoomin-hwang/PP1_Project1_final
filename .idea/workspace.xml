@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 중간 점검 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordManager.java" afterDir="false" />
+    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 중간 점검 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
       <updated>1694232772465</updated>
       <workItem from="1694232773547" duration="2495000" />
       <workItem from="1694238891526" duration="1235000" />
-      <workItem from="1694240881904" duration="5425000" />
+      <workItem from="1694240881904" duration="7628000" />
     </task>
     <task id="LOCAL-00001" summary="2023 PP1 Project1 중간 점검 1">
       <option name="closed" value="true" />
@@ -75,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694240783513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023 PP1 Project1 중간 점검 2">
+      <option name="closed" value="true" />
+      <created>1694248014389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694248014389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023 PP1 Project1 중간 점검 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 PP1 Project1 중간 점검 1" />
+    <MESSAGE value="2023 PP1 Project1 중간 점검 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 PP1 Project1 중간 점검 2" />
   </component>
 </project>
