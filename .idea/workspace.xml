@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 Retrieve 기능 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <workItem from="1694240881904" duration="9492000" />
       <workItem from="1694426622369" duration="6000" />
       <workItem from="1694482841350" duration="3130000" />
-      <workItem from="1694719039759" duration="10075000" />
+      <workItem from="1694719039759" duration="10511000" />
     </task>
     <task id="LOCAL-00001" summary="2023 PP1 Project1 중간 점검 1">
       <option name="closed" value="true" />
@@ -165,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694856103062</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2023 PP1 Project1 Retrieve 기능 구현">
+      <option name="closed" value="true" />
+      <created>1694870254211</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694870254211</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
