@@ -9,8 +9,6 @@
 ### 3. Add Screen
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/6fcc6f56-7f8a-436d-9266-f92e6ee9b61b'>
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/de2fa806-3b4a-41e3-8020-f07ca0061be9'>
-<img src=''>
-<img src=''>
 
 ### 4. List Same Level Screen
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/91f6b929-b4e8-449d-8675-f0b2361f17d4'>
@@ -30,5 +28,4 @@
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/05dd3114-d9e1-43bb-a51c-e04bdbcce592'>
 
 ### 9. Exit Screen
-<img src=''>
-![end](https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/e91632d7-85d2-41a9-8cd9-331072235212)
+<img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/e91632d7-85d2-41a9-8cd9-331072235212'>
