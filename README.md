@@ -4,7 +4,7 @@
 ![listall1](https://github.com/yoomin-hwang/PP1_Project1/assets/134265429/f6424016-ff05-466c-a242-1060ff94a086)
 
 ### 2. Add Screen
-![addword](https://github.com/yoomin-hwang/PP1_Project1/assets/134265429/267f0745-5e69-46ea-932f-b58e2336511f)
+![addword](./yoomin-hwang/PP1_Project1/assets/134265429/267f0745-5e69-46ea-932f-b58e2336511f)
 ![addword2](https://github.com/yoomin-hwang/PP1_Project1/assets/134265429/baffae8d-18fa-475a-a61b-904277515eb5)
 
 ### 3. List Same Level Screen
