@@ -42,13 +42,25 @@ public class WordCRUD implements ICRUD {
         String def = s.nextLine();
         Word word = list.get(idList.get(id-1));
         word.setDef(def);
-        System.out.print("단어가 수정되었습니다. ");
+        System.out.println("단어가 수정되었습니다. ");
     }
 
     @Override
-    public int delete(Object obj) {
+    public void delete(Object obj) {
+        System.out.println("=> 삭제할 단어 검색 : ");
+        String keyword = s.next();
+        ArrayList<Integer> idList = this.retrieve(keyword);
+        System.out.print("=> 삭제할 번호 선택 : ");
+        int id = s.nextInt();
+        s.nextLine();
 
-        return 0;
+        System.out.print("=> 정말로 삭제하실래요?(Y/N) ");
+        String ans = s.next();
+        if(ans.equalsIgnoreCase("y")){
+            list.remove(idList.get(id-1));
+            System.out.println("단어가 삭제되었습니다. ");
+        }
+        else System.out.println("취소되었습니다. ");
     }
 
     @Override
