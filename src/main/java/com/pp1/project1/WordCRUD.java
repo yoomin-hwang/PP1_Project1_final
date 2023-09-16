@@ -112,7 +112,8 @@ public class WordCRUD implements ICRUD {
     }
 
     public void loadFile() {
-        try{
+
+        try {
             BufferedReader br = new BufferedReader(new FileReader(fname));
             String line;
             int i = 0;
@@ -131,22 +132,20 @@ public class WordCRUD implements ICRUD {
             br.close();
             System.out.println("==> " + i + "개 로딩 완료!!!");
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
     }
 
-    public void saveFile() throws IOException {
-        try{
-
-        PrintWriter pr = new PrintWriter(new FileWriter(fname));
-        for(Word one : list) {
-            pr.write(one.toFileString() + "\n");
+    public void saveFile() {
+        try {
+            PrintWriter pr = new PrintWriter(new FileWriter(fname));
+            for(Word one : list) {
+                pr.write(one.toFileString() + "\n");
+            }
+            pr.close();
+            System.out.println("==> 데이터 저장 완료 !!!");
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
-        pr.close();
-        System.out.println("==> 데이터 저장 완료 !!!");
-        } catch (IOException e){
-            e.printStackTrace();
-        }
-
     }
 }
