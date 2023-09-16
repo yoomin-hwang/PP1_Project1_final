@@ -1,0 +1,40 @@
+2|annual|일년의
+1|another|또 하나
+1|answer|대답
+1|ant|개미
+2|anticipate|예기하다
+2|anxiety|근심
+2|anxious|걱정되는
+1|any|어떤
+2|apart|떨어져서
+2|apology|사과
+2|apparent|명백한
+2|appeal|간청하다
+2|appear|나타나다
+1|apple|사과
+2|applicant|지원자
+2|apply|(물건을)대다
+2|appoint|지정하다
+2|appreciate|감상하다
+2|approach|다가가다
+2|appropriate|적당한
+3|approve|시인하다
+2|approximate|어림셈의
+2|architect|건축가
+2|architecture|건축
+3|archive|기록보관소
+1|area|면적
+2|argue|논하다
+2|arise|생기다
+1|arm|팔
+2|army|육군
+1|around|사방에
+2|arrange|가지런히 하다
+2|arrest|체포하다
+1|arrive|도착하다
+2|arrow|화살
+1|art|예술
+2|article|물품
+3|artificial|인공의
+1|as|-와 같은 정도로
+3|superintedent|관리자, 감독관
