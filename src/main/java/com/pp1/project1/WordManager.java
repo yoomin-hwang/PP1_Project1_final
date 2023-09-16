@@ -31,29 +31,33 @@ public class WordManager {
     public void start() {
         while(true){
             int menu = selectMenu();
-            if(menu == 0) break;
-            switch(menu) {
-                case 1:
+            if(menu == 0){
+                System.out.println("프로그램 종료! 다음에 만나요~");
+                break;
+            }
+            switch (menu) {
+                case 1 -> {                         // list all
                     wordCRUD.listAll();
-                    break;
-                case 2:
-                    int lv = 0;
-                    // scan level
-                    wordCRUD.listLevel(lv);
-                    break;
-                case 3:
-                    break;
-                case 4:
-                    wordCRUD.addWord();
-                    break;
-                case 5:
-                    break;
-                case 6:
-                    break;
-                case 7:
-                    break;
-                default:
-                    break;
+                }
+                case 2 -> {                         // list same level
+                    wordCRUD.listLevel();
+                }
+                case 3 -> {                         // retrieve word
+                    String keyword;
+                    System.out.println("=> 검색할 단어 입력 : ");
+                    keyword = s.next();
+                    wordCRUD.retrieve(keyword);
+                }
+                case 4 -> wordCRUD.addWord();       // add word
+                case 5 -> {                         // update word
+                    wordCRUD.update();
+                }
+                case 6 -> {                         // delete word
+
+                }
+                case 7 -> {                         // file in and out
+
+                }
             }
         }
     }
