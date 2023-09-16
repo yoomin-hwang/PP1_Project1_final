@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 Delete 디버깅">
-      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+    <list default="true" id="f39c2fe4-354d-4c92-868e-c1a648ada00f" name="Changes" comment="2023 PP1 Project1 file 읽기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/ICRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pp1/project1/WordManager.java" afterDir="false" />
     </list>
@@ -27,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -71,7 +74,7 @@
       <workItem from="1694240881904" duration="9492000" />
       <workItem from="1694426622369" duration="6000" />
       <workItem from="1694482841350" duration="3130000" />
-      <workItem from="1694719039759" duration="13968000" />
+      <workItem from="1694719039759" duration="15145000" />
     </task>
     <task id="LOCAL-00001" summary="2023 PP1 Project1 중간 점검 1">
       <option name="closed" value="true" />
@@ -209,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694871638662</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023 PP1 Project1 file 읽기">
+      <option name="closed" value="true" />
+      <created>1694874321884</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694874321884</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +248,8 @@
     <MESSAGE value="2023 PP1 Project1 Update 기능 구현" />
     <MESSAGE value="2023 PP1 Project1 Delete 기능 구현" />
     <MESSAGE value="2023 PP1 Project1 Delete 디버깅" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 PP1 Project1 Delete 디버깅" />
+    <MESSAGE value="2023 PP1 Project1 file 읽기 디버깅" />
+    <MESSAGE value="2023 PP1 Project1 file 읽기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 PP1 Project1 file 읽기" />
   </component>
 </project>

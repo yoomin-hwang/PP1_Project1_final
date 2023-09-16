@@ -1,5 +1,6 @@
 package com.pp1.project1;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class WordManager {
@@ -28,7 +29,7 @@ public class WordManager {
         // int menu = s.nextInt();
     }
 
-    public void start() {
+    public void start() throws IOException {
         wordCRUD.loadFile();
         while(true){
             int menu = selectMenu();
@@ -57,7 +58,7 @@ public class WordManager {
                     wordCRUD.delete();
                 }
                 case 7 -> {                         // file in and out
-
+                    wordCRUD.saveFile();
                 }
             }
         }
