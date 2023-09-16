@@ -1,6 +1,7 @@
 # PP1_Project1_final
 ### 1. Initial Screen
-![delete2](https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/b27d2fdf-8ce7-4e44-83e0-6a915de698f8)
+<img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/b27d2fdf-8ce7-4e44-83e0-6a915de698f8'>
+![delete2]()
 
 ![file](https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/05dd3114-d9e1-43bb-a51c-e04bdbcce592)
 ![listall1](https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/88bc1362-5481-4052-bdd6-532845376b24)
