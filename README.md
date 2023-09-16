@@ -4,6 +4,7 @@
 
 ### 2. List All Screen
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/88bc1362-5481-4052-bdd6-532845376b24'>
+<img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/9f96d214-c17c-40a6-9d59-9db3aef908a1'>
 
 ### 3. Add Screen
 <img src='https://github.com/yoomin-hwang/PP1_Project1_final/assets/134265429/6fcc6f56-7f8a-436d-9266-f92e6ee9b61b'>
